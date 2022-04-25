@@ -1,3 +1,3 @@
-# Codes for "Algorithmic stability and generalization of an unsupervised feature selection algorithm"
+# Codes for "Stabilizing and Enhancing Link Prediction through Deepened Graph Auto-Encoders"
 
 Coming soon...
