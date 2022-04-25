@@ -20,7 +20,7 @@ All experiments are implemented by JupyterLab 2.2.4 with Python 3.7.8, Tensorflo
 
 **If you find this code useful in your research, please consider citing our work:**
 
-Xinxing Wu and Qiang Cheng. Algorithmic stability and generalization of an unsupervised feature selection algorithm. Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021); preprint arXiv: 2010.09416v1, 2021.
+Xinxing Wu and Qiang Cheng. Algorithmic stability and generalization of an unsupervised feature selection algorithm. Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021), https://proceedings.neurips.cc/paper/2021/hash/a546203962b88771bb06faf8d6ec065e-Abstract.html; preprint arXiv: 2010.09416, 2021, https://arxiv.org/abs/2010.09416
 
 
 ---
