@@ -3,9 +3,31 @@
 > Feature selection, as an important dimension reduction technique, reduces data dimension by identifying an essential subset of input features, which can facilitate interpretable insights into learning and inference processes. Algorithmic stability is a key characteristic of an algorithm regarding its sensitivity to perturbations of input samples. In this paper, we propose an innovative unsupervised feature selection algorithm attaining this stability with provable guarantees. The architecture of our algorithm consists of a feature scorer and a feature selector. The scorer trains a neural network (NN) to globally score all the features, and the selector adopts a dependent sub-NN to locally evaluate the representation abilities for selecting features. Further, we present algorithmic stability analysis and show that our algorithm has a performance guarantee via a generalization error bound. Extensive experimental results on real-world datasets demonstrate superior generalization performance of our proposed algorithm to strong baseline methods. Also, the properties revealed by our theoretical analysis and the stability of our algorithm-selected features are empirically confirmed.
 
 ---
+Taking MNIST-Fashion, COIL-20, and USPS as examples, for $k = 50$ and $\Phi^{\mathrm{max}_k}=(\mathrm{W}_{\mathrm{I}}^2)^{\mathrm{max}_k}$, we visualize the feature selection and reconstruction results on MNIST demonstrated in Figure 1, and we give the selected features on original samples of USPS in Figure 2.
+
+<img src="./Python/fig/Figure1.png" width="100%">
+
+---
+## Assumptions
+
+<img src="./Python/fig/Assump1.png" width="100%">
+
+<img src="./Python/fig/Assump2.png" width="100%">
+
+<img src="./Python/fig/Assump3.png" width="100%">
+
+---
+## Theoretical results
+
+<img src="./Python/fig/Theorem1.png" width="100%">
+
+<img src="./Python/fig/Theorem2.png" width="100%">
+
+
+---
 All experiments are implemented by JupyterLab 2.2.4 with Python 3.7.8, Tensorflow 1.14, and Keras 2.2.5. The files in the subfolder “Python” are the Python source codes, which have been implemented in JupyterLab. For readability, we also provide the corresponding html files in the subfolder “Html”.
 
-<img src="./Python/fig/Codes.png" width="50%">
+<img src="./Python/fig/Codes.png" width="100%">
 
 ---
 ## How to cite
