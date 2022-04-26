@@ -5,7 +5,7 @@
 ---
 Taking MNIST-Fashion, COIL-20, and USPS as examples, for $k = 50$ and $\Phi^{\mathrm{max}_k}=(\mathrm{W}_{\mathrm{I}}^2)^{\mathrm{max}_k}$, we visualize the feature selection and reconstruction results on MNIST demonstrated in Figure 1, and we give the selected features on original samples of USPS in Figure 2.
 
-<img src="./Python/fig/Figure1.png" width="85%">
+<img src="./Python/fig/Figure1.png" width="100%">
 
 ---
 ## Assumptions
@@ -26,7 +26,7 @@ Taking MNIST-Fashion, COIL-20, and USPS as examples, for $k = 50$ and $\Phi^{\ma
 
 We empirically verify the properties related to uniform stability bound and generalization bound in Theorems 1 and 2. Further, we will discuss the algorithmic stability and the stability of selected features by our algorithm.
 
-<img src="./Python/fig/Figure3.png" width="85%">
+<img src="./Python/fig/Figure3.png" width="100%">
 
 ---
 All experiments are implemented by JupyterLab 2.2.4 with Python 3.7.8, Tensorflow 1.14, and Keras 2.2.5. The files in the subfolder “Python” are the Python source codes, which have been implemented in JupyterLab. For readability, we also provide the corresponding html files in the subfolder “Html”.
