@@ -5,15 +5,7 @@
 ---
 All experiments are implemented by JupyterLab 2.2.4 with Python 3.7.8, Tensorflow 1.14, and Keras 2.2.5. The files in the subfolder “Python” are the Python source codes, which have been implemented in JupyterLab. For readability, we also provide the corresponding html files in the subfolder “Html”.
 
-1.The codes in folder "Assumption2" are for the verification of Assumption 2.
-
-2.The codes in folder "Square" are for the results in Tables 2 and 3 when $\Phi(\mathrm{W}_{\mathrm{I}})^{\mathrm{max}_k}=\mathrm{W}_{\mathrm{I}}^2$.
-
-3.The codes in folder "AbsoluteAndOtherAlgorithms" are for the results in Tables 2 and 3 when $\Phi(\mathrm{W}_{\mathrm{I}})^{\mathrm{max}_k}=|\mathrm{W}_{\mathrm{I}}|.$
-
-4.The codes in folder "InterpretationOfBound" are for Figure 2.
-
-5.The codes in folder "StabilityAnalysis" are for Figure 2 in the main text, and they are the experiments related to stability analysis.
+<img src="./Python/fig/Codes.png" width="50%">
 
 ---
 ## How to cite
