@@ -21,14 +21,18 @@ Taking MNIST-Fashion, COIL-20, and USPS as examples, for $k = 50$ and $\Phi^{\ma
 
 <img src="./Python/fig/Theorem1.png" width="85%">
 
+---
 <img src="./Python/fig/Theorem2.png" width="85%">
 
+---
 
 We empirically verify the properties related to uniform stability bound and generalization bound in Theorems 1 and 2. Further, we will discuss the algorithmic stability and the stability of selected features by our algorithm.
 
 <img src="./Python/fig/Figure3.png" width="100%">
 
 ---
+## Codes
+
 All experiments are implemented by JupyterLab 2.2.4 with Python 3.7.8, Tensorflow 1.14, and Keras 2.2.5. The files in the subfolder “Python” are the Python source codes, which have been implemented in JupyterLab. For readability, we also provide the corresponding html files in the subfolder “Html”.
 
 <img src="./Python/fig/Codes.png" width="60%">
