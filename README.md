@@ -52,7 +52,7 @@ Xinxing Wu and Qiang Cheng. Algorithmic stability and generalization of an unsup
 
 ## License
 
-Distributed under the MIT license. See [``LICENSE``](https://github.com/xinxingwu-uk/FAE/blob/main/LICENSE) for more information.
+Distributed under the MIT license. See [``LICENSE``](https://github.com/xinxingwu-uk/UFS/blob/main/LICENSE) for more information.
 
 
 ---
