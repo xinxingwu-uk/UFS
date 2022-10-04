@@ -1,4 +1,4 @@
-# Algorithmic Stability and Generalization of an Unsupervised Feature Selection Algorithm (NeurIPS 2021)
+# Algorithmic Stability and Generalization of an Unsupervised Feature Selection Algorithm (**NeurIPS 2021**) 
 
 Paper link: https://proceedings.neurips.cc/paper/2021/hash/a546203962b88771bb06faf8d6ec065e-Abstract.html
 
